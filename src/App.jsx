@@ -47,7 +47,7 @@ function App() {
             readOnly
             ref={passwordRef}
           />
-          <button className="outline-none bg-blue-700 text-white px-3 py-0.5 shrink-0"
+          <button className="outline-none bg-green-700 text-white px-3 py-0.5 shrink-0"
           onClick={copyPassword}
           >
             Copy
